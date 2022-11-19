@@ -1,0 +1,30 @@
+.real
+{
+    margin:0px;
+    width: 100%;
+    font-size: 20px;
+}
+.reall
+{
+    color: black;
+    font-size: 17px;
+}
+.reallll
+{
+    position: fixed;
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    line-height: 20px;
+}  
+canvas
+{
+    border: 5px solid red;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px blue;
+
+
+}
